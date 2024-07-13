@@ -17,7 +17,7 @@ def encrypt_text(plaintext,n):
 
 	return ans
 
-plaintext = "HELLO EVERYONE"
+plaintext = "MY SELF SHIVAM & YOU?"
 n = 1
 print("Plain Text is : " + plaintext)
 print("Shift pattern is : " + str(n))
